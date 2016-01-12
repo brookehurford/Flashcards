@@ -1,0 +1,27 @@
+#js-open, #mod-open, #op-open, #nan-open, #var-open, #short-open, #func-open, #meth-open, #arg-open, #str-open, #methChain-open, #esc-open, #alt-open, #cc-open {
+  display:none;
+}
+
+body {
+  text-align: center;
+}
+
+ul {
+  text-align: left;
+}
+
+.col {
+  background-color: #add8e6;
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  text-align: center;
+  height: 250px;
+  padding-top: 10px;
+}
+
+h2:hover {
+  cursor: pointer;
+}
